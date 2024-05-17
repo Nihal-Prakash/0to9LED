@@ -1,5 +1,5 @@
 # 0to9LED
-An Assembly ARMv7 project that sequentially displays 0 to 9 in a seven-segment display
+An Assembly ARMv7 project that sequentially displays 0 to 9 in a seven-segment display.
 <br>
 Decimal codes for 0 to 9 are:
 <br> 
